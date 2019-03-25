@@ -22,8 +22,11 @@ MonoBehaviour:
   m_Title: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootView: {fileID: 6}
 =======
+=======
+>>>>>>> parent of 04e7a21... Merge branch 'Ivana'
 =======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
   m_RootView: {fileID: 2}
@@ -44,6 +47,9 @@ MonoBehaviour:
 =======
   m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 04e7a21... Merge branch 'Ivana'
+=======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
 =======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
@@ -76,6 +82,9 @@ MonoBehaviour:
 =======
   m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 04e7a21... Merge branch 'Ivana'
+=======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
 =======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
@@ -109,6 +118,9 @@ MonoBehaviour:
 =======
   m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 04e7a21... Merge branch 'Ivana'
+=======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
 =======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
@@ -176,7 +188,11 @@ MonoBehaviour:
   m_EditorHideFlags: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+=======
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 04e7a21... Merge branch 'Ivana'
 =======
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
@@ -211,6 +227,9 @@ MonoBehaviour:
 =======
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 04e7a21... Merge branch 'Ivana'
+=======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
 =======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
@@ -240,6 +259,9 @@ MonoBehaviour:
 =======
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 04e7a21... Merge branch 'Ivana'
+=======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
 =======
 >>>>>>> parent of 04e7a21... Merge branch 'Ivana'
