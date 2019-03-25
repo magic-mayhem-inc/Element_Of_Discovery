@@ -6,6 +6,7 @@ public class Lava : MonoBehaviour
 {
 
     public GameObject platform;
+    public Transform platformParent;
 
     void OnCollisionEnter(Collision collision)
     {
@@ -13,7 +14,8 @@ public class Lava : MonoBehaviour
         {
             Vector3 originPoint = collision.contacts[0].point;
             Quaternion rotation = new Quaternion();
-            Instantiate(platform, originPoint, rotation);
+            Instantiate(platform, originPoint, rotation, platformParent);
+            LavaPlatformManager.numOfPlatforms++;
         }
     }
 
@@ -23,6 +25,7 @@ public class Lava : MonoBehaviour
         if(other.CompareTag("Player"))
         {
             PlayerController.isDead = true;
+            
         }
     }
 }
