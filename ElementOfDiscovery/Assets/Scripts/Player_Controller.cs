@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player_Controller : MonoBehaviour
 {
@@ -12,7 +13,6 @@ public class Player_Controller : MonoBehaviour
     public float speed;
     public float jumpForce;
     public Vector3 jump;
-    public bool canControl;
 
     public Text speechText;
     public Text interactText;
@@ -36,7 +36,7 @@ public class Player_Controller : MonoBehaviour
         jump = new Vector3(0.0f, 2.0f, 0.0f);
 
         // Text
-        speechText = "";
+        speechText.text = "";
 
         // Speech Box Background
         img.enabled = true;
