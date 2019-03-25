@@ -47,7 +47,11 @@ MonoBehaviour:
     height: 780
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 548}
+=======
+  m_MinSize: {x: 950, y: 498}
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
   m_MinSize: {x: 950, y: 498}
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -123,10 +127,17 @@ MonoBehaviour:
     height: 730
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 713, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
   controlID: 143
+=======
+  m_MinSize: {x: 913, y: 448}
+  m_MaxSize: {x: 22008, y: 10024}
+  vertical: 0
+  controlID: 4421
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
   m_MinSize: {x: 913, y: 448}
   m_MaxSize: {x: 22008, y: 10024}
@@ -160,7 +171,11 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 833
+=======
+    width: 685
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     width: 685
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -173,7 +188,11 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 144
+=======
+  controlID: 4422
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
   controlID: 4422
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -199,8 +218,13 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 833
     height: 385
+=======
+    width: 685
+    height: 500
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     width: 685
     height: 500
@@ -234,9 +258,15 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 385
     width: 833
     height: 345
+=======
+    y: 500
+    width: 685
+    height: 230
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     y: 500
     width: 685
@@ -262,6 +292,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_EditorHideFlags: 0
@@ -293,6 +324,8 @@ MonoBehaviour:
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -304,8 +337,13 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 363
     height: 388
+=======
+    width: 258
+    height: 730
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     width: 258
     height: 730
@@ -338,6 +376,7 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 388
     width: 363
@@ -345,11 +384,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
     x: 943
     y: 0
     width: 234
     height: 730
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -377,9 +421,15 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1196
     y: 0
     width: 326
+=======
+    x: 1177
+    y: 0
+    width: 345
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     x: 1177
     y: 0
@@ -422,9 +472,15 @@ MonoBehaviour:
     x: 7.2000003
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 468.80002
     width: 831
     height: 325
+=======
+    y: 584
+    width: 683
+    height: 210
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     y: 584
     width: 683
@@ -448,6 +504,7 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -332.4
     m_HBaseRangeMax: 332.4
     m_VBaseRangeMin: -123.200005
@@ -455,11 +512,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
     m_HBaseRangeMin: -273.2
     m_HBaseRangeMax: 273.2
     m_VBaseRangeMin: -77.200005
     m_VBaseRangeMax: 77.200005
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -482,10 +544,17 @@ MonoBehaviour:
       y: 17
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 831
       height: 308
     m_Scale: {x: 1.25, y: 1.25}
     m_Translation: {x: 415.5, y: 154}
+=======
+      width: 683
+      height: 193
+    m_Scale: {x: 1.25, y: 1.25}
+    m_Translation: {x: 341.5, y: 96.5}
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
       width: 683
       height: 193
@@ -506,6 +575,7 @@ MonoBehaviour:
       serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -332.4
       y: -123.2
       width: 664.8
@@ -513,11 +583,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
       x: -273.2
       y: -77.2
       width: 546.4
       height: 154.4
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -527,7 +602,11 @@ MonoBehaviour:
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1038.75, y: 406.25}
+=======
+  m_LastWindowPixelSize: {x: 853.75, y: 262.5}
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
   m_LastWindowPixelSize: {x: 853.75, y: 262.5}
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -540,7 +619,10 @@ MonoBehaviour:
   m_XRRenderMode: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 --- !u!114 &13
@@ -687,6 +769,9 @@ MonoBehaviour:
       m_LastClickedID: 5056
       m_ExpandedIDs: 94fbffffd4fbffffc0130000
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -707,7 +792,11 @@ MonoBehaviour:
         m_IsRenamingFilename: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         m_ClientGUIView: {fileID: 10}
+=======
+        m_ClientGUIView: {fileID: 9}
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
         m_ClientGUIView: {fileID: 9}
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -761,17 +850,21 @@ MonoBehaviour:
     m_Folders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/EffectExamples
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/EffectExamples
 =======
+=======
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
     - Assets/Standard Assets/Environment/Water/Water4/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Standard Assets/Environment/Water/Water4/Prefabs
+<<<<<<< HEAD
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     - Assets/Standard Assets/Environment/Water/Water4/Prefabs
@@ -780,11 +873,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Standard Assets/Environment/Water/Water4/Prefabs
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\ivana\Documents\GitHub\Element_Of_Discovery\ElementOfDiscovery
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 19}
@@ -794,11 +890,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 3a0b0000
     m_LastClickedID: 2874
     m_ExpandedIDs: 00000000780a0000a80a0000f00b0000220c0000180e0000940e0000fe1100006c31000000ca9a3b
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
+=======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -819,7 +920,11 @@ MonoBehaviour:
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 11}
+=======
+      m_ClientGUIView: {fileID: 10}
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
       m_ClientGUIView: {fileID: 10}
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -839,7 +944,11 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000007e0a0000b00a00009e0f0000d00f000054120000d81200008c1600008c360000
+=======
+    m_ExpandedIDs: 00000000780a0000a80a0000f00b0000220c0000180e0000940e0000fe1100006c31000000ca9a3b
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     m_ExpandedIDs: 00000000780a0000a80a0000f00b0000220c0000180e0000940e0000fe1100006c31000000ca9a3b
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -874,8 +983,13 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 00000000fa100000
+=======
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: 00000000803f0000
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 00000000803f0000
@@ -909,7 +1023,11 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 294}
+=======
+    m_ScrollPosition: {x: 0, y: 0}
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     m_ScrollPosition: {x: 0, y: 0}
 >>>>>>> parent of af49d52... Merge branch 'master' into Ivana
@@ -941,9 +1059,15 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1203.2001
     y: 84
     width: 324
+=======
+    x: 1184
+    y: 84
+    width: 343
+>>>>>>> parent of af49d52... Merge branch 'master' into Ivana
 =======
     x: 1184
     y: 84
