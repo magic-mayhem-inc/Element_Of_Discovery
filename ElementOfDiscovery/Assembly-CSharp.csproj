@@ -68,14 +68,9 @@
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Managers\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\Managers\LavaPlatformManager.cs" />
-    <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\QuickRestart.cs" />
     <Compile Include="Assets\Scripts\WaterBubble.cs" />
-<<<<<<< HEAD
-    <None Include="Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
-=======
->>>>>>> parent of 04e7a21... Merge branch 'Ivana'
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/gitHub/Element_Of_Discovery/ElementOfDiscovery/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
