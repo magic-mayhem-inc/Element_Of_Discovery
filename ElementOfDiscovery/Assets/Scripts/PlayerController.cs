@@ -16,11 +16,6 @@ public class PlayerController : MonoBehaviour
     bool isGrounded;
     bool canControl;
 
-    // Locked/Unlocked Elements - Boolean
-    bool fireStone;
-    bool waterStone;
-    bool earthStone;
-
     Vector3 jump;
 
     enum Magic {None, Water, Fire, Earth, Air, Steam, Mud, Rain, Metal, Lightning, Sand, Life};
@@ -39,8 +34,6 @@ public class PlayerController : MonoBehaviour
         // Jump Vectors
         jump = new Vector3(0.0f, 2.0f, 0.0f);
 
-        // Water Element Unlocked at Start
-        waterStone = true;
         canControl = true;
         
     }
@@ -71,6 +64,18 @@ public class PlayerController : MonoBehaviour
 
     }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        // Interact Code
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            if (other.CompareTag("Item"))
+            {
+                InventoryManager.instance.AddToInventory(other.name, other.gameObject);
+            }
+        }
+    }
+
     private void OnMouseDown()
     {
         MagicCast(currentMagic);
@@ -88,7 +93,7 @@ public class PlayerController : MonoBehaviour
         switch(current)
         {
             case Magic.Water:
-
+                CastWater();
                 break;
 
             case Magic.Fire:
@@ -108,8 +113,9 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    void InventoryManager ()
+    void CastWater ()
     {
 
     }
+
 }

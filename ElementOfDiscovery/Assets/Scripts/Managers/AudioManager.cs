@@ -11,6 +11,7 @@ public class AudioManager : MonoBehaviour
     public static AudioManager instance;
 
     // Struct in C#: Variable of variables
+    // Stores an array of sound clips that can be added through the Unity editor
     [System.Serializable]
     public struct Clip
     {
