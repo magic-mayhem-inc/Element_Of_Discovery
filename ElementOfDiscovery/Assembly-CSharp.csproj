@@ -76,22 +76,8 @@
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Managers\HazardManager.cs" />
     <Compile Include="Assets\Scripts\Managers\InventoryManager.cs" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\Managers\LavaPlatformManager.cs" />
-=======
->>>>>>> parent of af49d52... Merge branch 'master' into Ivana
-=======
->>>>>>> parent of af49d52... Merge branch 'master' into Ivana
-=======
->>>>>>> parent of af49d52... Merge branch 'master' into Ivana
-=======
->>>>>>> parent of af49d52... Merge branch 'master' into Ivana
     <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\QuickRestart.cs" />
     <None Include="Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/ivana/Documents/GitHub/Element_Of_Discovery/ElementOfDiscovery/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
