@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     // Public Variables
     public float speed;
     public float jumpForce;
-    public static bool isDead;
+
 
     // Booleans
     bool isGrounded;
@@ -25,7 +25,6 @@ public class PlayerController : MonoBehaviour
     void Awake()
     {
         currentMagic = Magic.None;
-        
     }
 
     void Start()
@@ -36,7 +35,7 @@ public class PlayerController : MonoBehaviour
         jump = new Vector3(0.0f, 2.0f, 0.0f);
 
         canControl = true;
-        isDead = false;
+        
     }
 
     void Update()
